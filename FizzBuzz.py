@@ -5,4 +5,4 @@ def fizzBuzz(i):
         return "Fizz"
     if i % 5 == 0:
         return "Buzz"
-    return
+    return i
